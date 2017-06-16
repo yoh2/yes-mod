@@ -1,0 +1,10 @@
+*~
+*.sw[op]
+*.o
+*.cmd
+
+Module.symvers
+modules.order
+.tmp_versions/
+yes.mod.c
+yes.ko

@@ -1,0 +1,1 @@
+SUBSYSTEM=="misc", KERNEL=="yes", MODE="0666"
