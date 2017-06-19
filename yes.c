@@ -10,7 +10,6 @@
 #include <linux/slab.h>
 #include <linux/device.h>
 #include <linux/miscdevice.h>
-#include <linux/miscdevice.h>
 #include <linux/file.h>
 
 #include <asm/uaccess.h>
