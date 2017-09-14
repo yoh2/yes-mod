@@ -11,8 +11,7 @@
 #include <linux/device.h>
 #include <linux/miscdevice.h>
 #include <linux/file.h>
-
-#include <asm/uaccess.h>
+#include <linux/uaccess.h>
 
 MODULE_LICENSE("GPL");
 
